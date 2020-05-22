@@ -1,2 +1,2 @@
 # Data-Structures-and-algorithms
-Interesting applications and practises about data structures and algorithms
+Some applications and practices about data structures and algorithms
